@@ -13,7 +13,6 @@
 Este repositorio contiene el código fuente del análisis predictivo de matrícula universitaria desarrollado como parte del artículo académico:
 
 > **"Análisis Predictivo de Matrícula Universitaria mediante Aprendizaje Automático: Comparación de Escenarios de Proyección en una IES Tecnológica Pública Mexicana"**  
-> *Enviado a RITI — Revista de Innovación, Tecnología e Investigación (Q2)*
 
 El sistema implementa cuatro modelos de aprendizaje automático y genera un **ensamble balanceado** para proyectar la matrícula de la UTGZ en el horizonte 2025-2030, utilizando datos del Formato 911 de ANUIES.
 
