@@ -195,7 +195,7 @@ Veracruz, México
 Este proyecto está bajo la licencia **MIT**. Puedes usar, modificar y distribuir el código citando la fuente.
 
 ```
-MIT License — Copyright (c) 2025 [Tu Nombre]
+MIT License — Copyright (c) 2025 [Halley-Garcia]
 ```
 
 ---
