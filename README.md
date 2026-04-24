@@ -205,7 +205,7 @@ MIT License — Copyright (c) 2025 [Tu Nombre]
 
 Si utilizas este código en tu investigación, por favor cítalo como:
 
-> [Tu Nombre]. (2025). *Proyección de Matrícula Universitaria mediante Aprendizaje Automático — UTGZ* [Software]. GitHub. https://github.com/TU_USUARIO/utgz-proyeccion-matricula
+> Garcia-Halley. (2025). *Proyección de Matrícula Universitaria mediante Aprendizaje Automático — UTGZ* [Software]. GitHub. https://github.com/TU_USUARIO/utgz-proyeccion-matricula
 
 ---
 
